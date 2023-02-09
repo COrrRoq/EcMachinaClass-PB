@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/CarlDunnRoq/EcMachinaClass/issues"
   },
-  "homepage": "https://github.com/CarlDunnRoq/EcMachinaClass#readme"
+  "homepage": "https://github.com/CarlDunnRoq/EcMachinaClass#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
