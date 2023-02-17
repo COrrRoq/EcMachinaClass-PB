@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/CarlDunnRoq/EcMachinaClass#readme",
   "dependencies": {
-    "jest": "^29.4.2",
+    "jest": "^29.4.3",
     "prompt-sync": "^4.2.0"
   }
 }
